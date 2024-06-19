@@ -71,6 +71,7 @@
 
 .description {
   max-width: 24ch;
+  text-align:center;
 }
 
 .info {
@@ -98,5 +99,11 @@
       max-width: 400px;
       width: 400px;
     }
+  }
+}
+
+@media (width <= 700px){
+  .description{
+    margin-left:30px;
   }
 }

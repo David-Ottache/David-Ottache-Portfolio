@@ -44,18 +44,18 @@ function Projects() {
             </a>
           </p>
         </div>
-
+        
         <div className={styles.stcontainer}>
           <ProjectCard
             src={Lastt}
-            link="https://github.com/David-Ottache/gpt_dav/tree/main/davotta"
+            link="https://gpt-dav.vercel.app/"
             h3="GPT-3"
             p="Informative Web App"
           />
           <p className={styles.specialtext}>
             <a
               href={
-                "https://gpt-dav.vercel.app/"
+                "https://github.com/David-Ottache/gpt_dav/tree/main/davotta"
               }
             >
               Source code
