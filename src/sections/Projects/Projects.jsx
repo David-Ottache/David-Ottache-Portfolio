@@ -44,7 +44,7 @@ function Projects() {
             </a>
           </p>
         </div>
-        
+
         <div className={styles.stcontainer}>
           <ProjectCard
             src={Lastt}
